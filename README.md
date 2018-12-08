@@ -1,2 +1,4 @@
 # Colour-Vision-Test
-game test your vision!!
+Game test your vision!!
+with VietNamese comment
+<img src="Capture.png">

@@ -1,0 +1,15 @@
+D:\Documents\Project C#\ColorVisionTest\ColorVisionTest\bin\Release\ColorVisionTest.exe.config
+D:\Documents\Project C#\ColorVisionTest\ColorVisionTest\bin\Release\ColorVisionTest.exe.manifest
+D:\Documents\Project C#\ColorVisionTest\ColorVisionTest\bin\Release\ColorVisionTest.application
+D:\Documents\Project C#\ColorVisionTest\ColorVisionTest\bin\Release\ColorVisionTest.exe
+D:\Documents\Project C#\ColorVisionTest\ColorVisionTest\bin\Release\ColorVisionTest.pdb
+D:\Documents\Project C#\ColorVisionTest\ColorVisionTest\obj\Release\ColorVisionTest.csprojAssemblyReference.cache
+D:\Documents\Project C#\ColorVisionTest\ColorVisionTest\obj\Release\ColorVisionTest.Form1.resources
+D:\Documents\Project C#\ColorVisionTest\ColorVisionTest\obj\Release\ColorVisionTest.Properties.Resources.resources
+D:\Documents\Project C#\ColorVisionTest\ColorVisionTest\obj\Release\ColorVisionTest.SaveBox.resources
+D:\Documents\Project C#\ColorVisionTest\ColorVisionTest\obj\Release\ColorVisionTest.csproj.GenerateResource.cache
+D:\Documents\Project C#\ColorVisionTest\ColorVisionTest\obj\Release\ColorVisionTest.csproj.CoreCompileInputs.cache
+D:\Documents\Project C#\ColorVisionTest\ColorVisionTest\obj\Release\ColorVisionTest.exe.manifest
+D:\Documents\Project C#\ColorVisionTest\ColorVisionTest\obj\Release\ColorVisionTest.application
+D:\Documents\Project C#\ColorVisionTest\ColorVisionTest\obj\Release\ColorVisionTest.exe
+D:\Documents\Project C#\ColorVisionTest\ColorVisionTest\obj\Release\ColorVisionTest.pdb
